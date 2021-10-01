@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1621516925 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p2_20190050_20190305_20190342\main.cpp
+	"FractionCalculator.h"
+
+1621516925 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p2_20190050_20190305_20190342\fractioncalculator.h
+	"Fraction.h"
+
+1621516925 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p2_20190050_20190305_20190342\fraction.h
+	<iostream>
+
+1621517023 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p2_20190050_20190305_20190342\fraction.cpp
+	"Fraction.h"
+
+1621517023 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p2_20190050_20190305_20190342\fractioncalculator.cpp
+	"FractionCalculator.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1621424876 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1621424876 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\matrix.h
+	<iostream>
+
+1621424876 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+	<iostream>
+
+1621424876 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\matrixcalculator.h
+	"Matrix.h"
+	"Matrix.cpp"
+	<iostream>
+
+1621424876 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1621424901 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p3_20190050_20190305_20190342\main.cpp
+	<iostream>
+	"MatrixCalculator.h"
+	<string>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621297060 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p1_20190050_20190305_20190342\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1621294989 c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p1_20190050_20190305_20190342\bigdecimalint.h
+	<iostream>
+	<string>
+
+1621296674 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\a1_p1_20190050_20190305_20190342\main.cpp
+	<iostream>
+	<string>
+	"BigDecimalInt.h"
+
